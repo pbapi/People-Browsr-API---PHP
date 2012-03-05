@@ -1,6 +1,5 @@
 <?php
-/*Author: DelRay Davis
-Website: http://www.delraydavis.com
+/*
 Date: 18 February 2012
 Description:provides an easy to use interface for communicating with the peoplebrowsr API system.
 
